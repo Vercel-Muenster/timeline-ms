@@ -60,7 +60,7 @@ export default {
 
   width: 50px
   height: 50px
-  font-size: $size-6
+  font-size: $size-7
   &:not(:first-child)
     margin-left: 0.75rem
 
@@ -72,9 +72,9 @@ export default {
       margin-left: 0.5rem
 
   +widescreen
-    font-size: $size-5
-    width: 65px
-    height: 65px
+    font-size: $size-7
+    width: 50px
+    height: 50px
     &:not(:first-child)
       margin-left: 0.75rem
 
