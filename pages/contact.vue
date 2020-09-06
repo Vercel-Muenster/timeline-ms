@@ -6,10 +6,8 @@
 
         <p>Betreiber und Kontakt:</p>
         <p>
-          <strong>TechLabs Münster e.V.</strong><br />
+          <strong>TechLabs Münster</strong><br />
           c/o Andrés David Vega Botero<br />
-          Stubenrauchstr. 28<br />
-          12161 Berlin
         </p>
         <p>E-Mail-Adresse: muenster@techlabs.org</p>
         <p>

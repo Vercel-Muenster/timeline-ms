@@ -11,15 +11,15 @@
       <div class="columns">
         <div class="column is-three-fifths">
           Your browser supports push notifications. Click on the button below to
-          allow us to keep you up-to-date on TechLabs Berlin. We won't send more
-          than a few messages per week and you can unsubscribe at any time at
-          the bottom of this page.
+          allow us to keep you up-to-date on TechLabs Münster. We won't send
+          more than a few messages per week and you can unsubscribe at any time
+          at the bottom of this page.
         </div>
         <div class="column">
           <img
             class="setup-image"
             src="~/assets/notification.png"
-            alt="An Update from TechLabs Berlin"
+            alt="An Update from TechLabs Münster"
           />
         </div>
       </div>

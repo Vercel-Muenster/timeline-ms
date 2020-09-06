@@ -116,15 +116,15 @@ export default {
   },
   pwa: {
     manifest: {
-      name: 'TechLabs Berlin Semester Radar',
-      short_name: 'TechLabs Berlin',
+      name: 'TechLabs Münster Semester Radar',
+      short_name: 'TechLabs Münster',
       lang: 'en'
     },
     meta: {
-      name: 'TechLabs Berlin Semester Radar',
-      author: 'TechLabs Berlin e.V.',
+      name: 'TechLabs Münster Semester Radar',
+      author: 'TechLabs Münster',
       description:
-        'The TechLabs Berlin semester radar shows all the important semester information at a glance',
+        'The TechLabs Münster semester radar shows all the important semester information at a glance',
       lang: 'en',
       nativeUI: true,
       appleStatusBarStyle: 'default'

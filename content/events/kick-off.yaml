@@ -1,7 +1,7 @@
 ---
   slug: kick-off
   name: Semester Kick-Off
-  date: "2020-04-23T20:00:00+02:00"
+  date: "2020-10-04T20:00:00+02:00"
   description: |
     This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
 
@@ -15,7 +15,7 @@
   # - title: Feedback
   #   description: Please leave feedback for our Kick-Off Event!
   #   url: https://techlabsorg.typeform.com/to/SCoGA7
-  resources:
+  resources: []
     # - title: "Meet: Kick-Off"
     #   description: The main room where we will meet.
     #   type: meeting
@@ -36,7 +36,3 @@
     #   description: Break-Out Room for UX Design
     #   type: meeting
     #   url: https://meet.google.com/aep-cocb-wyq
-    - title: "Slides"
-      description: The presentation we showed you during the Kick-Off
-      type: slides
-      url: https://drive.google.com/a/techlabs.org/file/d/1m9chYWu00JFhqCcBVhcwnTYmjFtj89g2/view?usp=sharing

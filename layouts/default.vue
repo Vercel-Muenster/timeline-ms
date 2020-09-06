@@ -7,7 +7,7 @@
             ><img class="navbar-logo" src="~assets/techlabs-global-logo.svg" />
           </nuxt-link>
           <nuxt-link
-            class="navbar-item techlabs-berlin-logo"
+            class="navbar-item techlabs-ms-logo"
             to="/timeline"
             target="_new"
             ><img class="navbar-logo" src="~assets/techlabs-ms-logo.svg" />
