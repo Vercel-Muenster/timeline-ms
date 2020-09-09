@@ -1,5 +1,7 @@
 ---
   text: |
-    Testing <span class="highlighted">for the Münster Location</span>.<br/>
-    Amazing <span class="highlighted">:D</span>!
-  links: []
+    &#127775<span class="highlighted">Die Bewerbungsphase beginnt!</span>&#127775<br/><br/>
+    Auf geht's! am<span class="highlighted">13.09.20</span> beginnt die Bewerbungsphase. 
+  links: 
+    - title: zum bewerbungsformular 📝
+      url: 3W2

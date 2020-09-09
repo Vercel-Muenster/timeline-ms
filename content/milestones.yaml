@@ -12,18 +12,6 @@
         type: feedback
         url: 3W2
 
-- slug: apply-start
-  name: Bewerbungsphase beginnt 📝
-  date: "2020-09-13T00:00:00+02:00"
-  description: |
-    **Die Bewerbungsphase beginnt!** Auf geht's! Am **13.09.20** beginnt die Bewerbungsphase. 
-  todos:
-  - name: Deine Bewerbung einreichen
-    resources:
-      - title: Typeform
-        type: feedback
-        url: 3W2
-
 - slug: zusagenandabsagen
   name: Zusagen & Absagen 🎉
   date: "2020-10-06T23:59:59+02:00"
@@ -35,7 +23,7 @@
   date: "2020-10-10T23:59:59+02:00"
   description: |
     *erst ab Okt 7, 2020 möglich*
-    
+
     **Du hast dich für einen Track entschieden?**
     
     Dann kannst du uns das in einer Umfrage mitteilen und dich auch gleich schon für eine Spezialisierung entscheiden. Die Kurse orientieren sich an deiner persönlichen Vorerfahrung.
