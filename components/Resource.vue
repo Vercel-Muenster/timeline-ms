@@ -56,7 +56,7 @@ export default {
         case 'slides':
           return 'file-powerpoint'
         case 'typeform':
-          return 'theater-masks'
+          return 'question'
         case 'calendar':
           return 'calendar-alt'
         case 'tool':

@@ -106,7 +106,8 @@ export default {
         'faCalendarAlt',
         'faToolbox',
         'faHandshake',
-        'faVideo'
+        'faVideo',
+        'faQuestion'
       ],
       brands: ['faSlack', 'faInstagram', 'faFacebookF']
     }
