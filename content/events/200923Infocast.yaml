@@ -1,16 +1,9 @@
 ---
-  slug: kick-off
-  name: Semester Kick-Off
-  date: "2020-10-04T20:00:00+02:00"
+  slug: infocast
+  name: Infocast
+  date: "2020-09-23T19:00:00+02:00"
   description: |
-    This is where your Digital Shaper Journey will start. We'll give you a summary on all you need to know to master your track.
-
-    Our topics include:
-
-    1. **Key Facts** regarding TechLabs, the Digital Shaper program, certificate and community
-    1. **Administrative Topics** – your onboarding to our toolset, communication channels, regular meetings & next steps
-    1. **Community Get-Together** – we want to get to know each other
-    1. **Track Get-Together** – you'll meet other participants in the track you're planning to choose
+    ❓ TBD
   forms: []
   # - title: Feedback
   #   description: Please leave feedback for our Kick-Off Event!
