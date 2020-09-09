@@ -24,10 +24,10 @@
           classes="icon deadline-icon"
           i="exclamation-circle"
         />
-        <span class="milestone-deadline">Am {{ deadlineRelative }}</span>
+        <span class="milestone-deadline">Bis zum {{ deadlineRelative }}</span>
       </p>
       <p v-else class="subtitle has-text-centered">
-        <span class="milestone-deadline">Am {{ deadlineAbsolute }}</span>
+        <span class="milestone-deadline">Bis zum {{ deadlineAbsolute }}</span>
       </p>
       <!--eslint-disable vue/no-v-html-->
       <p class="content" v-html="description" />
