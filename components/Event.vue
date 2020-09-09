@@ -25,7 +25,7 @@
           i="exclamation-circle"
         />
         <span class="event-date">
-          Takes place
+          Am
           <template v-if="happeningSoon">{{ dateRelative }}</template>
           <template v-else>{{ dateAbsolute }}</template>
         </span>
@@ -85,7 +85,7 @@
 <script>
 import MarkdownIt from 'markdown-it'
 import { format, formatRelative, differenceInDays } from 'date-fns'
-import { enUS } from 'date-fns/locale'
+import { de } from 'date-fns/locale'
 import Resource from '~/components/Resource.vue'
 import Fas from '~/components/Fas.vue'
 import FormLink from '~/components/FormLink.vue'
@@ -145,13 +145,13 @@ export default {
   methods: {
     updateDates() {
       this.dateRelative = formatRelative(this.event.date, new Date(), {
-        locale: enUS
+        locale: de
       })
       this.dateAbsolute =
         format(this.event.date, 'EEEE, d. MMMM', {
-          locale: enUS
+          locale: de
         }) +
-        ' at ' +
+        ' um ' +
         format(this.event.date, 'p')
       this.happeningVerySoon = differenceInDays(this.event.date, new Date()) < 2
       this.happeningSoon = differenceInDays(this.event.date, new Date()) < 7

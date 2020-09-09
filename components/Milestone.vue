@@ -24,10 +24,10 @@
           classes="icon deadline-icon"
           i="exclamation-circle"
         />
-        <span class="milestone-deadline">Due {{ deadlineRelative }}</span>
+        <span class="milestone-deadline">Am {{ deadlineRelative }}</span>
       </p>
       <p v-else class="subtitle has-text-centered">
-        <span class="milestone-deadline">Due {{ deadlineAbsolute }}</span>
+        <span class="milestone-deadline">Am {{ deadlineAbsolute }}</span>
       </p>
       <!--eslint-disable vue/no-v-html-->
       <p class="content" v-html="description" />
@@ -45,7 +45,7 @@
 <script>
 import MarkdownIt from 'markdown-it'
 import { format, formatRelative, differenceInDays } from 'date-fns'
-import { enUS } from 'date-fns/locale'
+import { de } from 'date-fns/locale'
 import Fas from '~/components/Fas'
 import Todo from '~/components/Todo'
 import { sha256 } from '~/assets/crypto'
@@ -96,13 +96,13 @@ export default {
   methods: {
     updateDates() {
       this.deadlineRelative = formatRelative(this.milestone.date, new Date(), {
-        locale: enUS
+        locale: de
       })
       this.deadlineAbsolute =
         format(this.milestone.date, 'EEEE, d. MMMM', {
-          locale: enUS
+          locale: de
         }) +
-        ' at ' +
+        ' um ' +
         format(this.milestone.date, 'p')
       this.dueSoon = differenceInDays(this.milestone.date, new Date()) < 7
       this.dueVerySoon = differenceInDays(this.milestone.date, new Date()) < 2

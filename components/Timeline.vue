@@ -24,7 +24,7 @@
       class="timeline-show"
       @click="showsFutureEvents = true"
     >
-      <p>Show future events</p>
+      <p>Zukünftige Events anzeigen</p>
       <Fas i="angle-up" />
     </a>
     <a
@@ -33,7 +33,7 @@
       @click="showsFutureEvents = false"
     >
       <Fas i="eye-slash" />
-      <p>Hide future events</p>
+      <p>Verstecke zukünftige Events</p>
     </a>
     <!-- Future Events END -->
     <div>
