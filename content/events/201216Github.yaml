@@ -1,0 +1,17 @@
+---
+  slug: github
+  name: GitHub Session 👩‍💻👨‍💻
+  date: "2020-12-16T19:00:00+01:00"
+  description: |
+    **Kurz und effektiv** - wir bringen euch einmal die Grundkonzepte von **Git(-Hub)** bei. 
+    
+    Dieses für Tech-Projekte immense wichtige Tool lässt sich am besten durch anwenden lernen. Daher haben wir euch ein paar Aufgaben erstellt, die ihr gemeinsam mit eurem Team und mit Unterstützung eures Mentors erledigen könnt. 
+  forms: []
+  resources: 
+    - title: "Zoom: PM & Track Workshop"
+      description: Der Zoom-Link für das Event
+      type: meeting
+      url: WHK
+    - title: "Feedback-Umfrage"    
+      type: typeform
+      url: 42L
