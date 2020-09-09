@@ -1,0 +1,14 @@
+---
+  slug: kick-off
+  name: Semester Kick-off
+  date: "2020-10-07T19:00:00+02:00"
+  description: |
+    Der Semester Kick-Off ist ein besonderer Termin. Es ist dein **Start ins TechLabs Semester!**
+    
+    Im Rahmen des Events erhälst du **wichtige organisatorische Infos** für die kommende Zeit, eine **detaillierte Vorstellung der Lerntracks** und du hast die Möglichkeit erste Kontakte mit den anderen Techies zu knüpfen. Wir freuen uns auf ***JEDE*** deiner Fragen! 
+  forms: []
+  resources: 
+    - title: "Zoom: Kick-Off"
+      description: Der Zoom-Link für das Event
+      type: meeting
+      url: XE3
