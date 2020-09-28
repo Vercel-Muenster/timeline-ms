@@ -128,7 +128,7 @@ export default {
       return this.entries.filter(isPastEntry)
     },
     futureEntries() {
-      return this.entries.filter(isFutureEntry).reverse()
+      return this.entries.filter(isFutureEntry)
     },
     shownEntries() {
       let entries = []
