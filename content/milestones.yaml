@@ -18,22 +18,6 @@
 #   description: |
 #     ❓ TBD
 
-- slug: trackwahl
-  name: Trackwahl 📝
-  date: "2020-10-10T23:59:59+02:00"
-  description: |
-    *erst ab Okt 7, 2020 möglich*
-
-    **Du hast dich für einen Track entschieden?**
-    
-    Dann kannst du uns das in einer Umfrage mitteilen und dich auch gleich schon für eine Spezialisierung entscheiden. Die Kurse orientieren sich an deiner persönlichen Vorerfahrung.
-  todos:
-  - name: Der „trackwahl“ form ausfullen
-    resources:
-      - title: Trackwahl
-        type: feedback
-        url: YPU
-
 - slug: trackausspielung
   name: Trackausspielung 🎇
   date: "2020-10-14T23:59:59+02:00"
