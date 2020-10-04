@@ -5,27 +5,48 @@
         <h1 class="title">Frequently Asked Questions</h1>
         <p class="content">
           For general questions regarding the TechLabs Digital Shaper program,
-          such as:
+          take a look at this Pages:
         </p>
-        <ul>
-          <li>How much time to invest</li>
-          <li>What expenses you will have to pay</li>
-          <li>How to receive the Digital Shaper certificate</li>
-          <li>…</li>
-        </ul>
-        <p class="content">
-          Please also have a look at the
-          <a
-            href="https://techlabs.org/faq"
-            target="_new"
-            class="techlabs-button faq-button"
-          >
-            <span class="icon">
-              <Fas i="link" />
-            </span>
-            <span>FAQs at techlabs.org</span>
-          </a>
-        </p>
+        <a
+          href="https://www.notion.so/techlabs/FAQ-for-Techies-41bb02ff48a940b0a97885e91c21671b"
+          target="_new"
+          class="techlabs-button faq-button"
+        >
+          <span class="icon">
+            <Fas i="link" />
+          </span>
+          <span>FAQ for Techies</span>
+        </a>
+        <a
+          href="https://www.notion.so/techlabs/Digital-Shaper-Programm-TechLabs-M-nster-cc36b85b067c4fa5942c3cb552450ddf"
+          target="_new"
+          class="techlabs-button faq-button"
+        >
+          <span class="icon">
+            <Fas i="link" />
+          </span>
+          <span>Digital Shaper Programm @ TechLabs Münster</span>
+        </a>
+        <a
+          href="https://www.notion.so/techlabs/Slack-Onboarding-Guide-e37c5e788da14f09a0b6a1bf7b9c0c02"
+          target="_new"
+          class="techlabs-button faq-button"
+        >
+          <span class="icon">
+            <Fas i="link" />
+          </span>
+          <span>Slack Onboarding Guide</span>
+        </a>
+        <a
+          href="https://www.notion.so/techlabs/Program-Onboarding-Guide-d0cfaf7bfa7a41d8ade8abb36c854ca2"
+          target="_new"
+          class="techlabs-button faq-button"
+        >
+          <span class="icon">
+            <Fas i="link" />
+          </span>
+          <span>Program Onboarding Guide</span>
+        </a>
       </div>
     </div>
     <div v-for="section in faq" :key="section.title" class="card faq-card">
@@ -43,19 +64,20 @@
   </div>
 </template>
 
+//
 <script>
 import Fas from '~/components/Fas'
-import Question from '~/components/faq/Question'
-import { faq } from '~/assets/content'
+// //import Question from '~/components/faq/Question'
+// //import { faq } from '~/assets/content'
 
 export default {
   components: {
-    Fas,
-    Question
-  },
-  data() {
-    return { faq }
+    Fas
+    // Question
   }
+  // data() {
+  //   return { faq }
+  // }
 }
 </script>
 
@@ -74,8 +96,8 @@ export default {
   border-radius: 8px
 
 .faq-button
-  vertical-align: sub
-  margin-left: 0.5rem
+  vertical-align: ce
+  margin: 0.5rem
 
 .faq-card .content h2
   margin-bottom: 2rem
