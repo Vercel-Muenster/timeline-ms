@@ -94,7 +94,7 @@
           <strong>Semester Radar</strong> by
           <nuxt-link to="/contact">TechLabs Münster</nuxt-link>.<br />
           Source code is available on
-          <a href="https://github.com/techlabsms/timeline-ms" target="_new"
+          <a href="https://github.com/VercelCAH/timeline-ms" target="_new"
             >GitHub</a
           >
           licensed
