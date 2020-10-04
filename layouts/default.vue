@@ -60,6 +60,15 @@
                 >
               </a>
             </div>
+            <div class="navbar-item navbar-social-link">
+              <a
+                href="https://www.linkedin.com/showcase/techlabs-m%C3%BCnster"
+                target="_new"
+              >
+                <Fab i="linkedin" />
+                <span class="navbar-social-link-handle">linkedin</span>
+              </a>
+            </div>
             <div class="navbar-item has-text-centered">
               <a
                 href="https://www.techlabs.org/location/Muenster"

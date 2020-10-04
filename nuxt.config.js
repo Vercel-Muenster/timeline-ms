@@ -109,7 +109,7 @@ export default {
         'faVideo',
         'faQuestion'
       ],
-      brands: ['faSlack', 'faInstagram', 'faFacebookF']
+      brands: ['faSlack', 'faInstagram', 'faFacebookF', 'faLinkedin']
     }
   },
   router: {
