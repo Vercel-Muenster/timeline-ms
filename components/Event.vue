@@ -25,9 +25,8 @@
           i="exclamation-circle"
         />
         <span class="event-date">
-          Am
           <template v-if="happeningSoon">{{ dateRelative }}</template>
-          <template v-else>{{ dateAbsolute }}</template>
+          <template v-else> Am {{ dateAbsolute }}</template>
         </span>
       </p>
       <p v-else class="subtitle has-text-centered">
