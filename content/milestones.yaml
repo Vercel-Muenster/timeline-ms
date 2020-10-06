@@ -18,13 +18,16 @@
 #   description: |
 #     ❓ TBD
 
-- slug: trackausspielung
-  name: Trackausspielung 🎇
-  date: "2020-10-14T23:59:59+02:00"
+- slug: trackwahl
+  name: Trackwahl 🛤
+  date: "2020-10-11T23:59:59+02:00"
   description: |
-    Bald ist es soweit!
     
-     **Schaue regelmäßig auf Edyoucated nach, ob du vielleicht schon direkt starten kannst!** 
+    **Du hast dich für einen Track entschieden?** 
+    
+    Dann melde dich auf **Edyoucated an**, wähle deinen Track und let's start coding! 
+    
+    Die Kurse orientieren sich an deiner persönlichen Vorerfahrung.
 
 - slug: teamzuordnung
   name: Teamzuordnung 🧩
