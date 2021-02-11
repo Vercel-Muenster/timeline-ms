@@ -3,7 +3,7 @@
 #   name: Bewerbungsphase endet 🏁
 #   date: "2020-09-27T23:59:59+02:00"
 #   description: |
-#     **Du hast Dich noch nicht beworben?** Auf geht's! Um **23:59 Uhr am 27.09.20** endet die Bewerbungsphase. 
+#     **Du hast Dich noch nicht beworben?** Auf geht's! Um **23:59 Uhr am 27.09.20** endet die Bewerbungsphase.
 #   forms: []
 #   todos:
 #   - name: Deine Bewerbung einreichen
@@ -22,26 +22,26 @@
   name: Trackwahl 🛤
   date: "2020-10-11T23:59:59+02:00"
   description: |
-    
-    **Du hast dich für einen Track entschieden?** 
-    
-    Dann melde dich auf **Edyoucated an**, wähle deinen Track und let's start coding! 
-    
+
+    **Du hast dich für einen Track entschieden?**
+
+    Dann melde dich auf **Edyoucated an**, wähle deinen Track und let's start coding!
+
     Die Kurse orientieren sich an deiner persönlichen Vorerfahrung.
 
 - slug: teamzuordnung
   name: Teamzuordnung 🧩
   date: "2020-11-03T23:59:59+01:00"
   description: |
-    Noch ein paar Tage und dann könnt ihr eure **Team-Mitglieder kennenlernen**. 
-    
+    Noch ein paar Tage und dann könnt ihr eure **Team-Mitglieder kennenlernen**.
+
     Wir legen Wert darauf interdisziplinäre und vielfältige Teams zusammenzustellen. **Freue dich auf einen spannende Projektphase!🎉**
 
 - slug: blogpostabgabe
   name: Blogpostabgabe 📚
-  date: "2021-03-14T23:59:59+01:00"
+  date: "2021-03-28T23:59:59+02:00"
   description: |
-    Bis heute habt ihr Zeit euer **Projekt inklusive des Blogposts** einzureichen. 
+    Bis heute habt ihr Zeit euer **Projekt inklusive des Blogposts** einzureichen.
   todos:
   - name: Blogpost einreichen
   - name: Projekt einreichen
