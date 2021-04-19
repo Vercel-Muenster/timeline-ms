@@ -20,26 +20,35 @@
 
 - slug: trackwahl
   name: Trackwahl 🛤
-  date: "2020-10-11T23:59:59+02:00"
+  date: "2021-04-25T23:59:59+02:00"
   description: |
 
     **Du hast dich für einen Track entschieden?**
 
-    Dann melde dich auf **Edyoucated an**, wähle deinen Track und let's start coding!
+    Dann melde dich auf **Edyoucated an**, wähle deinen Track und **let's start coding!**
 
     Die Kurse orientieren sich an deiner persönlichen Vorerfahrung.
 
 - slug: teamzuordnung
   name: Teamzuordnung 🧩
-  date: "2020-11-03T23:59:59+01:00"
+  date: "2020-05-11T23:59:59+01:00"
   description: |
     Noch ein paar Tage und dann könnt ihr eure **Team-Mitglieder kennenlernen**.
 
     Wir legen Wert darauf interdisziplinäre und vielfältige Teams zusammenzustellen. **Freue dich auf einen spannende Projektphase!🎉**
 
+- slug: cutting-point
+  name: Cutting Point📍
+  date: "2021-05-28T23:59:59+01:00"
+  description: |
+    Bis zum **28.03.2021** müsst ihr mindestens **12 Stunden** eures Tracks abgeschlossen haben.
+    Falls ihr das nicht schafft, müssen wir euch leider aus dem Programm ausschließen. 
+  todos:
+  - name: 12 Stunden in Edyoucated
+
 - slug: blogpostabgabe
   name: Blogpostabgabe 📚
-  date: "2021-03-28T23:59:59+02:00"
+  date: "2021-08-29T23:59:59+02:00"
   description: |
     Bis heute habt ihr Zeit euer **Projekt inklusive des Blogposts** einzureichen.
   todos:

@@ -1,7 +1,7 @@
 ---
   slug: github
   name: GitHub Session 👩‍💻👨‍💻
-  date: "2020-12-16T19:00:00+01:00"
+  date: "2021-06-29T19:00:00+01:00"
   description: |
     **Kurz und effektiv** - wir bringen euch einmal die Grundkonzepte von **Git(-Hub)** bei. 
     
@@ -12,6 +12,6 @@
       description: Der Zoom-Link für das Event
       type: meeting
       url: WHK
-    - title: "Feedback-Umfrage"    
-      type: typeform
-      url: 42L
+    # - title: "Feedback-Umfrage"    
+    #   type: typeform
+    #   url: 42L
