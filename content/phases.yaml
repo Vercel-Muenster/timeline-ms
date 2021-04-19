@@ -3,7 +3,7 @@
   - title: Onboarding
     description: |
       We will set you up
-    startWeekNum: 40
+    startWeekNum: 16
     duration: 1
 
   - title: Online Learning
@@ -11,23 +11,23 @@
       You work through your track on edyoucated and become a master of your class.
 
       We organize social events regularly so that you can connect with fellow Techies, share your insights and work together on difficulties.
-    startWeekNum: 41
+    startWeekNum: 17
     duration: 4
 
   - title: Ideation
     description: |
       Lets get an Idea!
-    startWeekNum: 45
+    startWeekNum: 21
     duration: 4
 
   - title: Project Management
     description: |
       Some good technics
-    startWeekNum: 49
+    startWeekNum: 25
     duration: 4
 
   - title: Project Phase
     description: |
       You team up as a group of 4-6 Techies and work together to create something big. Experienced mentors will be on your side for support.
-    startWeekNum: 53
+    startWeekNum: 28
     duration: 8
