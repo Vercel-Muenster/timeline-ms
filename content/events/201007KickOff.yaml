@@ -1,4 +1,4 @@
----
+  ---
   slug: kick-off
   name: Semester Kick-Off & Track Q&A 👋
   date: "2021-04-21T19:00:00+02:00"
@@ -12,3 +12,7 @@
       description: Der Zoom-Link für das Event
       type: meeting
       url: XE3
+    - title: "Slides"
+      description: Slides will be published soon.
+      type: slides
+      url: 'https://drive.google.com/file/d/1mQKrr9am4BoB-56jotstr9NoxcfKQocv/view?usp=sharing#
