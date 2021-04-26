@@ -12,7 +12,3 @@
       description: Der Zoom-Link für das Event
       type: meeting
       url: XE3
-    - title: "Slides"
-      description: Slides will be published soon.
-      type: slides
-      url: BVK
