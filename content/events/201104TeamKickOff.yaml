@@ -8,7 +8,7 @@
     Hauptziel heute ist aber erstmal, dass ihr eure Teammitglieder und Mentoren kennenlernt. Nebenbei lernt ihr schon mal spielerisch was es heißt gemeinsam an einem Projekt zu arbeiten.
   forms: []
   resources: 
-    - title: "Zoom: Team Kick-Off"
-      description: Der Zoom-Link für das Event
-      type: meeting
-      url: 6FQ
+    - title: "Slides"
+      description: Slides of the event.
+      type: slides
+      url: Q93
