@@ -6,7 +6,7 @@
     Im Projekt Management & Track Workshop erlernst du Tipps und Tricks, wie du dein agiles Projekt pragmatisch durchführen und typische Stolperfallen in deinem Learning Track umgehen kannst.
   forms: []
   resources: 
-    - title: "Zoom: PM & Track Workshop"
-      description: Der Zoom-Link für das Event
-      type: meeting
-      url: 6B8
+    - title: "Slides"
+      description: Slides "PM Workshop".
+      type: slides
+      url: 7JJ
