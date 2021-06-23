@@ -8,7 +8,7 @@
     Das Highlight: Am Ende des Abends wird das beste Projekt mit dem **Digital Shaper Award** ausgezeichnet. 
   forms: []
   resources: 
-    - title: "Zoom: Inspiration Day"
-      description: Der Zoom-Link für das Event
-      type: meeting
-      url: 2MY
+    - title: "Slides"
+      description: Slides of the event.
+      type: slides
+      url: 7XZ
