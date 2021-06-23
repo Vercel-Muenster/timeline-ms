@@ -11,7 +11,7 @@
 
   forms: []
   resources: 
-    - title: "Zoom: Ideation Workshop"
-      description: Der Zoom-Link für das Event
-      type: meeting
-      url: BXV
+    - title: "Slides"
+      description: Slides of the event.
+      type: slides
+      url: WEY
