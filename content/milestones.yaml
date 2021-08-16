@@ -42,13 +42,13 @@
   date: "2021-05-28T23:59:59+01:00"
   description: |
     Bis zum **29.05.2021** müsst ihr mindestens **12 Stunden** eures Tracks abgeschlossen haben.
-    Falls ihr das nicht schafft, müssen wir euch leider aus dem Programm ausschließen. 
+    Falls ihr das nicht schafft, müssen wir euch leider aus dem Programm ausschließen.
   todos:
   - name: 12 Stunden in Edyoucated
 
 - slug: blogpostabgabe
   name: Blogpostabgabe 📚
-  date: "2021-08-29T23:59:59+02:00"
+  date: "2021-09-08T23:59:59+02:00"
   description: |
     Bis heute habt ihr Zeit euer **Projekt inklusive des Blogposts** einzureichen.
   todos:
